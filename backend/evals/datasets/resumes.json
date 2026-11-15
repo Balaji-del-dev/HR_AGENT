@@ -1,0 +1,10 @@
+[
+  {"id": "backend-1", "lines": ["Summary", "Backend engineer focused on APIs.", "Experience", "Senior Engineer, Acme 2020-2024", "Built FastAPI and Django services on AWS.", "Skills", "Python, FastAPI, Django, PostgreSQL, AWS, Docker"],
+   "skills": ["Python", "FastAPI", "Django", "PostgreSQL", "AWS", "Docker"], "missing": ["education"]},
+  {"id": "ml-1", "lines": ["Experience", "ML Engineer, Beta 2019-2023", "Trained PyTorch models and served them with FastAPI.", "Built a RAG pipeline with LangChain and Qdrant.", "Education", "M.Tech, IIT Madras 2019", "Skills", "Python, PyTorch, LangChain, Qdrant, Kubernetes"],
+   "skills": ["Python", "PyTorch", "FastAPI", "RAG", "LangChain", "Qdrant", "Kubernetes"], "missing": []},
+  {"id": "frontend-1", "lines": ["Experience", "Frontend Developer, Gamma 2021-2024", "Built React and TypeScript apps with Redux.", "Education", "B.Sc Computer Science, Delhi University 2021", "Skills", "JavaScript, TypeScript, React, Redux, Jest, Figma"],
+   "skills": ["JavaScript", "TypeScript", "React", "Redux", "Jest", "Figma"], "missing": []},
+  {"id": "data-1", "lines": ["Experience", "Data Engineer, Delta 2018-2024", "Ran Airflow DAGs loading Snowflake and BigQuery.", "Wrote Spark jobs in Scala and Python.", "Skills", "SQL, Airflow, Snowflake, BigQuery, Spark, Scala, Python"],
+   "skills": ["SQL", "Airflow", "Snowflake", "BigQuery", "Spark", "Scala", "Python"], "missing": ["education"]}
+]

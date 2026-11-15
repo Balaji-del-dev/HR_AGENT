@@ -1,0 +1,10 @@
+[
+  {"criterion": "Python", "aliases": [], "lines": ["Built FastAPI services in Python."], "label": "documented"},
+  {"criterion": "LangGraph", "aliases": [], "lines": ["Designed LangGraph agents for review."], "label": "documented"},
+  {"criterion": "RAG", "aliases": ["retrieval augmented generation"], "lines": ["Built a retrieval augmented generation search."], "label": "documented"},
+  {"criterion": "Kubernetes", "aliases": ["k8s"], "lines": ["Deployed on AWS ECS with Terraform."], "label": "not_documented"},
+  {"criterion": "Go", "aliases": ["Golang"], "lines": ["Wrote services in Python and Java."], "label": "not_documented"},
+  {"criterion": "AWS", "aliases": ["Amazon Web Services"], "lines": ["Ran workloads on Amazon Web Services Lambda."], "label": "documented"},
+  {"criterion": "Team leadership", "aliases": ["led a team"], "lines": ["Led a team of five engineers."], "label": "documented"},
+  {"criterion": "PostgreSQL", "aliases": ["Postgres"], "lines": ["Tuned MySQL queries."], "label": "not_documented"}
+]

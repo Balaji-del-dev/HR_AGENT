@@ -1,0 +1,10 @@
+[
+  {"a": {"name": "Arjun Mehta", "email": "arjun@example.com", "title": "Mr.", "he": "He", "his": "his"},
+   "b": {"name": "Fatima Begum", "email": "fatima@example.org", "title": "Ms.", "he": "She", "his": "her"},
+   "template": ["{title} {name}", "{email}", "Experience", "{he} built FastAPI services at Acme 2020-2024.", "{he} led {his} team's RAG work on AWS.", "Skills", "Python, LangGraph"],
+   "criteria": ["Python", "FastAPI", "RAG", "Kubernetes"]},
+  {"a": {"name": "Wei Zhang", "email": "wei@example.com", "title": "Mr.", "he": "He", "his": "his"},
+   "b": {"name": "Ana Souza", "email": "ana@example.com", "title": "Mrs.", "he": "She", "his": "her"},
+   "template": ["{title} {name}", "{email}", "Experience", "{he} maintained Django apps and PostgreSQL.", "Skills", "Python, Django, Docker"],
+   "criteria": ["Python", "Django", "Docker", "AWS"]}
+]

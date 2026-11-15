@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+backend/staticfiles/
+
+# Frontend (frontend/.gitignore covers the rest)
+frontend/node_modules/
+frontend/dist/
+frontend/openapi.yaml
+
+# Local settings and secrets
+.env
+*.env
+!.env.example
+
+# Local object storage (resumes) in development
+backend/var/
